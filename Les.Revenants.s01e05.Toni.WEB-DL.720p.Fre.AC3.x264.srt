@@ -84,7 +84,8 @@ T’es con ou quoi?
 
 22
 00:07:43,560 --> 00:07:45,640
-– Comment je t’ai eu. – Ça va.
+– Comment je t’ai eu.
+– Ça va.
 
 23
 00:07:47,040 --> 00:07:48,040
@@ -116,7 +117,8 @@ Y a personne
 
 30
 00:08:28,360 --> 00:08:31,880
-– Il a pas pu aller bien loin. – La SDF a disparu aussi.
+– Il a pas pu aller bien loin.
+– La SDF a disparu aussi.
 
 31
 00:09:01,000 --> 00:09:03,120
@@ -132,7 +134,7 @@ T’as de l’argent
 
 34
 00:09:17,120 --> 00:09:19,120
-Ça fait pas le bonheur
+Ça fait pas le bonheur, de toute façon.
 
 35
 00:09:20,040 --> 00:09:21,680
@@ -140,11 +142,11 @@ Je te conseille le Big Burger.
 
 36
 00:09:23,480 --> 00:09:25,160
-Pas très bon
+Pas très bon, mais ça cale.
 
 37
 00:09:28,280 --> 00:09:30,640
-Vous croyez que je reverrai un jour mes parents?
+Vous croyez que je <u>reverrai</u> un jour mes parents?
 
 38
 00:09:34,720 --> 00:09:35,720
@@ -152,11 +154,12 @@ Sûrement.
 
 39
 00:09:41,520 --> 00:09:43,480
-C’était des gens très gentils
+C’était des gens très <u>gentils</u>, en tout cas.
 
 40
 00:09:45,320 --> 00:09:47,440
-Pourquoi ils sont pas revenus
+Pourquoi ils sont pas revenus,
+eux aussi ?
 
 41
 00:09:50,880 --> 00:09:52,920
@@ -164,19 +167,20 @@ Peut-être qu’ils sont en train de te chercher.
 
 42
 00:09:57,640 --> 00:10:00,040
-Le type à la Main tendue
+Le type à la Main tendue, Pierre, tu le <u>connais</u>?
 
 43
 00:10:07,440 --> 00:10:09,200
-Tu dois plus avoir peur de personne.
+Tu sais tu dois plus avoir peur de personne.
 
 44
 00:10:09,720 --> 00:10:11,600
-On peut plus rien nous faire
+On peut plus rien nous faire,
+maintenant.
 
 45
 00:10:13,000 --> 00:10:15,360
-Mais nous
+Mais nous, on peut faire du mal aux autres ?
 
 46
 00:10:17,280 --> 00:10:19,400
@@ -188,11 +192,12 @@ Y a quelqu’un à qui tu voudrais faire du mal?
 
 48
 00:10:42,520 --> 00:10:44,600
-Vous savez ce qu’il y a au fond du lac?
+Est-ce que vous savez ce qu’il y a au fond du lac?
 
 49
 00:10:46,520 --> 00:10:48,840
-– Oui
+- Oui, Johan ?
+- Des poissons ?
 
 50
 00:10:50,120 --> 00:10:51,240
@@ -200,35 +205,41 @@ Et quoi d’autre?
 
 51
 00:10:51,840 --> 00:10:54,200
-– Caroline? – Des algues?
+– Caroline?
+– Des algues?
 
 52
 00:10:54,960 --> 00:10:57,320
-– Des castors? – Peut-être.
+– Des castors?
+– Peut-être.
 
 53
 00:10:58,320 --> 00:11:00,640
-– Mathéo? – Des chamois?
+– Mathéo?
+– Des chamois?
 
 54
 00:11:01,560 --> 00:11:04,040
-Ça
+Ça, je pense pas.
+Et sinon ?
 
 55
 00:11:05,600 --> 00:11:07,680
-Vous croyez possible qu’il y ait des maisons?
+Vous croyez possible
+qu'il y ait des maisons ?
 
 56
 00:11:10,720 --> 00:11:12,120
-Savez-vous
+Est-ce que vous savez
 
 57
 00:11:12,360 --> 00:11:16,360
-que lorsque l’eau du lac baisse
+que lorsque l'eau du lac baisse,
+on peut voir le clocher d'une église ?
 
 58
 00:11:17,160 --> 00:11:20,040
-Il y a quelques années
+Il y a quelques années, il y avait un village à la place du lac.
 
 59
 00:11:20,280 --> 00:11:23,640
@@ -244,7 +255,8 @@ Est-ce qu’il y a des gens qui habitent dans le village sous-marin?
 
 62
 00:11:33,440 --> 00:11:36,680
-Madame
+Madame, est-ce qu'il y a des gens
+qui sont morts à cause du barrage ?
 
 63
 00:11:39,800 --> 00:11:41,360
@@ -260,7 +272,7 @@ Pourquoi le barrage s’est cassé?
 
 66
 00:12:03,920 --> 00:12:05,240
-Ça va
+Ça va maman?
 
 67
 00:13:10,640 --> 00:13:11,640
@@ -280,7 +292,7 @@ Qu’est-ce qu’il y a?
 
 71
 00:13:23,960 --> 00:13:26,080
-Léna s’est enfuie de l’hôpital dans la nuit.
+Léna s’est <u>enfuie</u> de l’hôpital dans la nuit.
 
 72
 00:13:27,560 --> 00:13:28,680
@@ -320,11 +332,11 @@ Et vous la laissez faire?
 
 81
 00:13:53,240 --> 00:13:55,320
-C’est plus vraiment une petite fille
+C’est plus vraiment une petite fille, tu sais.
 
 82
 00:13:57,280 --> 00:13:59,240
-Ils couchent ensemble
+Ils couchent ensemble avec Frédéric
 
 83
 00:14:02,640 --> 00:14:03,760
@@ -352,11 +364,12 @@ C’est bon. Je peux le porter.
 
 89
 00:14:59,240 --> 00:15:00,600
-T’es allé chasser ce matin?
+T’es allé <u>chasser</u> ce matin?
 
 90
 00:15:02,560 --> 00:15:04,680
-– On peut y aller ensemble. – Il est déjà tard.
+– On peut y aller ensemble si tu veux.
+– Il est déjà tard.
 
 91
 00:15:09,880 --> 00:15:11,160
@@ -368,11 +381,13 @@ T’en veux un?
 
 93
 00:15:32,800 --> 00:15:34,760
-– Y a quelqu’un? – C’est rien.
+– Y a quelqu’un?
+– C’est rien.
 
 94
 00:15:37,520 --> 00:15:39,680
-– Qu’est-ce que tu fais? – C’est rien
+– Qu’est-ce que tu fais?
+- C'est rien, je te dis.
 
 95
 00:15:48,040 --> 00:15:49,040
@@ -380,11 +395,11 @@ C’est elle?
 
 96
 00:15:53,240 --> 00:15:54,440
-Elle est revenue?
+Elle est revenue, c'est ça?
 
 97
 00:15:56,240 --> 00:15:57,080
-Maman?
+C'est Maman?
 
 98
 00:16:08,600 --> 00:16:09,880
@@ -400,7 +415,8 @@ Elle veut pas me voir?
 
 101
 00:17:30,080 --> 00:17:33,320
-Tu devrais prendre un cachet et dormir. Ça ira mieux après.
+Tu devrais prendre un cachet et dormir. 
+Ça ira mieux après.
 
 102
 00:17:36,960 --> 00:17:38,120
@@ -420,7 +436,7 @@ Qu’est-ce que t’en savais?
 
 106
 00:18:02,000 --> 00:18:04,400
-Peut-être que ça aurait été plus simple si je l’avais su.
+<p>Peut-être que ça aurait été plus simple si je l’avais su.</p>
 
 107
 00:18:05,800 --> 00:18:07,320
@@ -432,15 +448,15 @@ Comment on sait qu’il a voulu mourir?
 
 109
 00:18:12,400 --> 00:18:14,160
-Parce qu’il y avait plusieurs témoins.
+Parce qu’il y avait plusieurs <u>témoins</u>.
 
 110
 00:18:21,360 --> 00:18:22,800
-Qu’est-ce qu’elle a
+Qu’est-ce qu’elle a maman?
 
 111
 00:18:23,920 --> 00:18:25,440
-Elle est fatiguée
+Elle est fatiguée, c'est tout.
 
 112
 00:18:25,800 --> 00:18:27,000
@@ -448,7 +464,8 @@ Elle est fatiguée
 
 113
 00:18:29,240 --> 00:18:31,400
-– Quel ange? – Simon.
+– Quel ange?
+– Simon.
 
 114
 00:18:31,800 --> 00:18:32,880
@@ -456,23 +473,25 @@ Tu l’as vu?
 
 115
 00:18:33,960 --> 00:18:36,120
-– Il est venu hier. – Il t’a touchée?
+– Il est venu hier.
+– Il t’a touchée?
 
 116
 00:18:37,720 --> 00:18:39,240
-Il a fait du mal à maman?
+Non, il a fait du mal à maman?
 
 117
 00:18:40,240 --> 00:18:41,160
-Écoute bien.
+Écoute moi bien.
 
 118
 00:18:41,960 --> 00:18:43,520
-S’il revient
+S’il <u>revient</u>, préviens-moi tout de suite.
 
 119
 00:18:44,960 --> 00:18:47,640
-– Tu comprends? – D’accord.
+– Tu comprends?
+– D’accord.
 
 120
 00:19:00,440 --> 00:19:01,680
@@ -484,11 +503,12 @@ Deux personnes qui étaient logées ici ont disparu ce matin.
 
 122
 00:19:06,520 --> 00:19:08,520
-Les gendarmes vont venir fouiller partout.
+Les gendarmes vont venir <u>fouiller</u> partout.
 
 123
 00:19:12,680 --> 00:19:16,120
-– Vous pouvez me prêter de l’argent? – Tu veux quitter la ville?
+– Est-ce que vous pouvez me prêter de l’argent?
+– Tu veux quitter la ville?
 
 124
 00:19:17,000 --> 00:19:18,880
@@ -504,15 +524,18 @@ Quoi?
 
 127
 00:19:35,720 --> 00:19:37,160
-– Je peux entrer? –  on.
+– Je peux entrer?
+– Non.
 
 128
 00:19:38,400 --> 00:19:40,360
-– Il est là? – Qui?
+– Il est là?
+– Qui ça?
 
 129
 00:19:40,600 --> 00:19:42,280
-– Victor. – Pourquoi il serait là?
+– Victor.
+– Pourquoi il serait là?
 
 130
 00:19:45,480 --> 00:19:46,880
@@ -532,7 +555,8 @@ Vous l’avez laissé seul?
 
 134
 00:19:54,840 --> 00:19:57,400
-– Apparemment
+- Apparemment il est avec une femme.
+- Une femme?
 
 135
 00:19:57,640 --> 00:20:00,160
@@ -540,7 +564,8 @@ Une SDF qui était hébergée par l’association.
 
 136
 00:20:00,600 --> 00:20:04,280
-– On a une description précise. – T’as préféré le laisser avec une SDF?
+– On a une description précise.
+– T’as préféré le laisser avec une SDF?
 
 137
 00:20:04,520 --> 00:20:06,800
@@ -552,7 +577,8 @@ Reste là.
 
 139
 00:20:10,600 --> 00:20:13,520
-– Il pourrait revenir te voir. – Arrête de te mêler de ma vie.
+– Il pourrait revenir te voir.
+– Arrête de te mêler de ma vie.
 
 140
 00:20:13,760 --> 00:20:15,600
@@ -568,7 +594,8 @@ Celui dont je t’ai parlé.
 
 143
 00:20:36,720 --> 00:20:38,800
-– Si t’es toujours d’accord. – Bien sûr.
+– Si t’es toujours d’accord.
+– Bien sûr.
 
 144
 00:20:39,440 --> 00:20:40,760
@@ -612,11 +639,11 @@ Il y a dix ans.
 
 154
 00:21:45,160 --> 00:21:47,240
-Les choses ont pas mal changé en dix ans
+Les choses ont pas mal changé en dix ans, non?
 
 155
 00:21:48,560 --> 00:21:49,880
-Pas vraiment
+Pas vraiment, en fait.
 
 156
 00:21:53,080 --> 00:21:55,920
@@ -628,7 +655,8 @@ Tu te souviens de ce qui s’est passé juste avant que tu reviennes?
 
 158
 00:22:01,440 --> 00:22:03,520
-Moi non plus
+Moi non plus,
+je me souviens de rien du tout.
 
 159
 00:22:06,520 --> 00:22:08,160
@@ -644,11 +672,11 @@ T’es pas très bavard.
 
 162
 00:22:21,240 --> 00:22:23,520
-T’étais comme ça avant
+T’étais comme ça avant, ou c'est parce que t'es mort ?
 
 163
 00:22:29,600 --> 00:22:31,280
-Ils habitent plus là
+Ils habitent plus là, tes parents ?
 
 164
 00:22:33,800 --> 00:22:35,600
@@ -660,11 +688,11 @@ T’as une copine qui t’a pas attendu?
 
 166
 00:22:44,800 --> 00:22:46,000
-Moi
+Moi, c'est pareil.
 
 167
 00:22:47,040 --> 00:22:50,320
-L’amour plus fort que la mort
+L’amour plus fort que la mort, c'est des conneries.
 
 168
 00:22:57,880 --> 00:22:59,680
@@ -676,7 +704,7 @@ Bien sûr.
 
 170
 00:23:02,200 --> 00:23:04,120
-Entre zombies
+Entre zombies, faut s'<u>entraider</u>.
 
 171
 00:23:17,600 --> 00:23:19,760
@@ -684,7 +712,8 @@ On était en train de lui refaire son pansement.
 
 172
 00:23:20,000 --> 00:23:22,840
-Et là
+Et là, c'est comme si ses blessures
+étaient en train de disparaître.
 
 173
 00:23:44,120 --> 00:23:46,200
@@ -692,7 +721,8 @@ C’est des plongeurs qui les ont trouvés?
 
 174
 00:23:49,640 --> 00:23:52,800
-– Pourquoi ces plongeurs sont là? – On fait des vérifications.
+– Pourquoi ces plongeurs sont là?
+– On fait des vérifications.
 
 175
 00:23:54,160 --> 00:23:55,720
@@ -712,7 +742,7 @@ Il était très troublé.
 
 179
 00:24:26,760 --> 00:24:28,200
-À cause de Simon
+À cause de Simon, c'est ça ?
 
 180
 00:24:30,120 --> 00:24:31,680
@@ -724,11 +754,12 @@ Il parlait de résurrection.
 
 182
 00:24:34,840 --> 00:24:37,440
-Je pense que Thomas est complètement jaloux.
+Je pense que Thomas est complètement <u>jaloux</u>.
 
 183
 00:24:38,560 --> 00:24:42,320
-Il est jaloux d’un esprit
+Il est jaloux d'un esprit,
+de quelque chose qui n'existe pas.
 
 184
 00:24:42,560 --> 00:24:44,760
@@ -752,7 +783,7 @@ Il s’inquiète pour moi
 
 189
 00:24:58,480 --> 00:25:01,240
-Il m’aime
+Il m'aime, plus encore que Simon.
 
 190
 00:25:02,680 --> 00:25:05,000
@@ -764,7 +795,7 @@ Qu’en savez-vous?
 
 192
 00:25:09,440 --> 00:25:11,880
-À travers toutes les fois où nous avons parlé de lui
+À travers toutes les fois où nous avons parlé de lui,
 
 193
 00:25:12,520 --> 00:25:15,600
@@ -776,7 +807,7 @@ C’est vous qui m’avez encouragée à vivre avec le souvenir de Simon.
 
 195
 00:25:21,280 --> 00:25:24,000
-Vous m’avez poussée à vivre avec un mort.
+Vous m’avez <u>poussée</u> à vivre avec un mort.
 
 196
 00:25:26,720 --> 00:25:28,400
@@ -784,7 +815,8 @@ Vous saviez qu’il s’était suicidé?
 
 197
 00:25:33,480 --> 00:25:35,520
-Si Thomas n’avait pas été là
+Si Thomas n’avait pas été là,
+je serais morte.
 
 198
 00:25:37,000 --> 00:25:38,000
@@ -796,7 +828,8 @@ Lieutenant.
 
 200
 00:26:02,360 --> 00:26:05,320
-Je crois qu’on a repéré la dame
+Je crois qu'on a repéré la dame,
+mais le petit garçon n'est pas avec elle.
 
 201
 00:26:13,640 --> 00:26:14,680
@@ -812,7 +845,8 @@ Qu’est-ce que je fais là?
 
 204
 00:26:22,640 --> 00:26:24,840
-Tu t’étais évanouie
+Tu t'étais évanouie,
+alors je t'ai ramenée ici.
 
 205
 00:26:31,080 --> 00:26:32,280
@@ -820,15 +854,17 @@ Redresse-toi.
 
 206
 00:26:35,080 --> 00:26:38,120
-Quand j’étais petit
+Quand j'étais petit, ma mère
+me mettait ça sur mes blessures.
 
 207
 00:26:38,360 --> 00:26:41,520
-– C’est des orties. – Des orties
+– C’est des orties.
+- Des orties, c'est pas censé piquer ?
 
 208
 00:26:42,120 --> 00:26:44,560
-C’est les pointes qui piquent. Suffit de les broyer.
+C’est les pointes qui piquent. Suffit de les <u>broyer</u>.
 
 209
 00:26:44,920 --> 00:26:46,120
@@ -844,11 +880,12 @@ T’as faim?
 
 212
 00:27:18,680 --> 00:27:20,880
-– Un peu. – Je vais te chercher à manger.
+– Oui un peu.
+– Je vais te chercher à manger.
 
 213
 00:27:31,880 --> 00:27:34,320
-Cet après-midi
+Cet après-midi, vous pouvez vous en occuper ?
 
 214
 00:27:35,520 --> 00:27:36,920
@@ -856,19 +893,23 @@ Vous appelez le légiste.
 
 215
 00:27:37,760 --> 00:27:39,200
-– Très bien. – Merci.
+– Très bien.
+– Merci.
 
 216
 00:27:39,440 --> 00:27:41,960
-– Alors? – Rien pour l’instant.
+– Alors?
+– Rien pour l’instant.
 
 217
 00:27:42,200 --> 00:27:45,200
-Elle dit qu’ils sont partis ensemble
+Elle dit qu'ils sont partis ensemble,
+mais qu'ils se sont séparés après.
 
 218
 00:27:45,640 --> 00:27:48,840
-– Je crois pas qu’on peut la croire. – Pourquoi?
+– Je crois pas qu’on peut la croire.
+– Pourquoi?
 
 219
 00:27:51,160 --> 00:27:54,280
@@ -892,7 +933,8 @@ je peux lui parler?
 
 224
 00:28:16,080 --> 00:28:18,640
-Zut
+Zut, je croyais qu'on m'apportait
+un plateau-repas.
 
 225
 00:28:28,800 --> 00:28:30,000
@@ -904,7 +946,8 @@ Eh oui.
 
 227
 00:28:34,320 --> 00:28:36,720
-– Vous me croyez pas
+- Vous me croyez pas, j'imagine.
+- Si.
 
 228
 00:28:37,560 --> 00:28:38,560
@@ -912,7 +955,7 @@ Je vous crois.
 
 229
 00:28:41,320 --> 00:28:42,640
-Je vous connais
+Je vous connais, non?
 
 230
 00:28:45,640 --> 00:28:48,840
@@ -948,7 +991,8 @@ Comment c’est possible?
 
 238
 00:29:16,760 --> 00:29:18,680
-Et lui
+Et lui,
+ça fait longtemps qu'il est mort ?
 
 239
 00:29:19,880 --> 00:29:21,120
@@ -964,7 +1008,7 @@ Ses parents aussi.
 
 242
 00:29:29,480 --> 00:29:31,960
-Mais
+Mais, il est où maintenant, Victor ?
 
 243
 00:29:33,040 --> 00:29:34,360
@@ -1000,7 +1044,8 @@ Parce que…
 
 251
 00:30:12,520 --> 00:30:14,880
-je voudrais savoir
+je voudrais savoir,
+moi, j'ai l'impression de...
 
 252
 00:30:18,480 --> 00:30:20,200
@@ -1048,7 +1093,8 @@ Il a de la chance que vous l’ayez pas oublié.
 
 263
 00:31:20,320 --> 00:31:22,240
-– Il t’a dit quoi? – Il est pas bavard
+– Il t’a dit quoi?
+– Il est pas bavard
 
 264
 00:31:22,480 --> 00:31:25,040
@@ -1056,7 +1102,8 @@ mais il m’a raconté que vous avez pas pu vous marier
 
 265
 00:31:25,280 --> 00:31:28,400
-mais que vous allez pouvoir rattraper le temps perdu
+mais que vous allez pouvoir rattraper
+le temps perdu, grosso modo.
 
 266
 00:31:28,920 --> 00:31:30,480
@@ -1072,7 +1119,8 @@ Il a l’air très amoureux.
 
 269
 00:31:37,160 --> 00:31:39,760
-Il l’exprime mal
+Il l'exprime mal, mais c'est pas évident
+de vivre ce qu'il vit.
 
 270
 00:31:40,440 --> 00:31:41,760
@@ -1088,7 +1136,7 @@ Tu es…
 
 273
 00:31:48,240 --> 00:31:50,800
-Moi aussi
+Oui, moi aussi <u>je suis amoureuse de</u> quelqu'un qui veut pas de moi.
 
 274
 00:31:52,560 --> 00:31:53,600
@@ -1100,11 +1148,13 @@ Prenez la bonne décision.
 
 276
 00:32:06,960 --> 00:32:09,200
-– Il y en avait combien? – 36.
+– Il veut dire que il y en avait combien?
+– 36.
 
 277
 00:32:09,440 --> 00:32:11,800
-– Ils étaient tous dans le lac? – Apparemment.
+– Ils étaient tous dans le lac?
+– Apparemment.
 
 278
 00:32:12,160 --> 00:32:14,000
@@ -1112,11 +1162,12 @@ Ils étaient là depuis combien de temps?
 
 279
 00:32:14,240 --> 00:32:16,560
-Très difficile d’être précis.
+C'est très difficile d’être précis.
 
 280
 00:32:16,800 --> 00:32:19,000
-Ça a l’air récent
+Ça a l'air récent, 12 h,
+peut-être un peu plus.
 
 281
 00:32:21,400 --> 00:32:24,360
@@ -1136,7 +1187,8 @@ Les poumons sont gonflés d’eau. Ils étaient vivants dans le lac.
 
 285
 00:32:35,560 --> 00:32:38,280
-– C’est-à-dire? – Ils sont morts noyés.
+– C’est-à-dire?
+– Ils sont morts noyés.
 
 286
 00:32:40,000 --> 00:32:41,720
@@ -1144,15 +1196,17 @@ Or il y a pas de trace de résistance.
 
 287
 00:32:41,960 --> 00:32:44,480
-A priori
+A priori,
+ils y sont allés de leur plein gré.
 
 288
 00:32:45,760 --> 00:32:49,440
-– Pourquoi ils auraient fait ça? – Soit ils voulaient apprendre à nager
+– Pourquoi ils auraient fait ça?
+– Soit ils voulaient apprendre à nager
 
 289
 00:32:50,440 --> 00:32:51,720
-soit
+soit, plus probablement,
 
 290
 00:32:52,480 --> 00:32:55,040
@@ -1172,15 +1226,17 @@ C’était quand?
 
 294
 00:34:15,840 --> 00:34:18,640
-L’été dernier
+L’été dernier, dans sa maison de vancances.
 
 295
 00:34:19,000 --> 00:34:21,040
-– Il s’appelle comment? – Vincent.
+– Il s’appelle comment?
+– Vincent.
 
 296
 00:34:21,800 --> 00:34:25,280
-– Il est un peu plus vieux que toi? – Il a presque 26.
+– Il est un peu plus vieux que toi, non? Il a quel age?
+– Il a presque 26.
 
 297
 00:34:25,960 --> 00:34:26,960
@@ -1188,11 +1244,12 @@ Salut.
 
 298
 00:34:27,960 --> 00:34:29,360
-Des photos de moi?
+C'est photos de moi, ça?
 
 299
 00:34:30,440 --> 00:34:33,800
-– Des photos de mon ex. – T’es une chaudasse
+– Non, c'est des photos de mon ex.
+– T’es une chaudasse, en fait.
 
 300
 00:34:35,040 --> 00:34:36,120
@@ -1200,15 +1257,17 @@ T’as pas idée.
 
 301
 00:34:36,360 --> 00:34:37,720
-Prends des leçons
+Prends des leçons, Clara.
 
 302
 00:34:38,080 --> 00:34:40,120
-C’est quoi
+C'est quoi, ce bordel ?
+Y a rien à boire.
 
 303
 00:34:40,680 --> 00:34:43,400
-– T’inquiète
+- T'inquiète, ça arrive.
+- Attention, je suis en pleine forme.
 
 304
 00:34:44,320 --> 00:34:47,040
@@ -1220,7 +1279,8 @@ Le vainqueur demande ce qu’il veut.
 
 306
 00:34:49,760 --> 00:34:52,040
-Allez
+Allez, prêts ?
+Un, deux...
 
 307
 00:34:53,120 --> 00:34:54,120
@@ -1232,15 +1292,17 @@ Le deuxième? Je compte.
 
 309
 00:35:02,960 --> 00:35:04,680
-Un
+Un, deux...
+
 
 310
 00:35:12,760 --> 00:35:14,280
-La même chose
+La même chose, SVP.
 
 311
 00:35:32,160 --> 00:35:34,120
-– Excusez-moi. –  on
+– Excusez-moi.
+–  Non, non, entrez.
 
 312
 00:35:41,920 --> 00:35:43,440
@@ -1264,11 +1326,12 @@ On va vite la retrouver.
 
 317
 00:35:57,280 --> 00:35:59,640
-– Vous la connaissiez? – Un peu.
+– Vous la connaissiez?
+– Un peu.
 
 318
 00:36:03,080 --> 00:36:04,560
-Elle est belle
+Elle est belle, non?
 
 319
 00:36:05,920 --> 00:36:07,000
@@ -1284,7 +1347,8 @@ Les médecins sont surpris par ce qui lui arrive.
 
 322
 00:36:13,760 --> 00:36:16,400
- ormalement
+Normalement, on se remet pas
+de ce genre d'agression, mais là...
 
 323
 00:36:17,480 --> 00:36:19,960
@@ -1304,7 +1368,7 @@ C’est fascinant.
 
 327
 00:36:33,080 --> 00:36:34,080
- on?
+Non?
 
 328
 00:36:43,520 --> 00:36:44,680
@@ -1312,7 +1376,7 @@ Excusez-moi.
 
 329
 00:36:48,480 --> 00:36:49,560
-Oui
+Oui, Claire.
 
 330
 00:36:51,000 --> 00:36:52,480
@@ -1320,7 +1384,7 @@ Tu as des nouvelles de Léna?
 
 331
 00:36:54,920 --> 00:36:56,880
- on
+Non, j'espérais que t'en aurais, toi.
 
 332
 00:36:57,640 --> 00:36:59,600
@@ -1348,7 +1412,8 @@ J’allais vous apporter à manger.
 
 338
 00:37:31,200 --> 00:37:34,240
-– Camille s’est endormie. – C’est bien
+– Camille s’est endormie.
+– C’est bien
 
 339
 00:37:34,480 --> 00:37:36,760
@@ -1364,7 +1429,7 @@ Bien sûr.
 
 342
 00:37:55,800 --> 00:37:57,760
-Vous aussi
+Vous aussi, vous avez tout le temps faim ?
 
 343
 00:38:03,480 --> 00:38:05,320
@@ -1388,7 +1453,8 @@ C’est la chose la plus magnifique du monde.
 
 348
 00:38:26,360 --> 00:38:28,640
-Alice
+Alice, à toi l'honneur.
+C'est du sérieux, maintenant.
 
 349
 00:38:30,480 --> 00:38:31,480
@@ -1396,11 +1462,13 @@ C’est parti.
 
 350
 00:38:32,880 --> 00:38:34,160
-– Un. – Allez.
+– Un.
+– Allez.
 
 351
 00:38:34,840 --> 00:38:36,760
-– Deux. – Elle déchire.
+– Deux.
+– Elle déchire.
 
 352
 00:38:37,880 --> 00:38:39,000
@@ -1412,11 +1480,13 @@ Trois.
 
 354
 00:38:42,120 --> 00:38:43,760
-– Quatre. – Une dernière.
+– Quatre.
+– Une dernière.
 
 355
 00:38:46,200 --> 00:38:48,600
-Bravo. Franchement
+Bravo.
+Franchement, respect.
 
 356
 00:38:49,520 --> 00:38:50,800
@@ -1424,7 +1494,8 @@ Bravo. Franchement
 
 357
 00:38:51,040 --> 00:38:52,480
-– À ton tour. – Allez
+– À ton tour.
+- Allez, Fréd.
 
 358
 00:38:52,720 --> 00:38:53,920
@@ -1440,11 +1511,13 @@ Deux.
 
 361
 00:39:02,240 --> 00:39:03,920
-–  ous fais pas honte. – Trois.
+– Nous fais pas honte.
+– Trois.
 
 362
 00:39:04,400 --> 00:39:06,920
-– Le lose
+- Le <i>lose</i>, sérieux.
+- T'es mauvais.
 
 363
 00:39:07,160 --> 00:39:09,480
@@ -1456,15 +1529,16 @@ Ce que je veux?
 
 365
 00:39:29,560 --> 00:39:31,480
-C’est quoi
+C'est quoi, ce bazar ?
 
 366
 00:39:33,720 --> 00:39:35,400
-– Papa
+- Papa, arrête !
+- Quoi, arrête ?
 
 367
 00:40:50,520 --> 00:40:52,120
-Fais pas ça
+Fais pas ça, je t'en supplie.
 
 368
 00:40:53,800 --> 00:40:55,000
@@ -1484,7 +1558,7 @@ T’es conne ou quoi?
 
 372
 00:41:18,560 --> 00:41:19,800
-Tu fous quoi
+Tu fous quoi, là ?
 
 373
 00:41:20,040 --> 00:41:22,000
@@ -1492,7 +1566,8 @@ J’avais pas vraiment l’intention de mourir.
 
 374
 00:41:22,240 --> 00:41:24,720
-– Tu voulais faire quoi? – Vérifier un truc.
+– Tu voulais faire quoi?
+– Vérifier un truc.
 
 375
 00:41:26,360 --> 00:41:27,600
@@ -1512,19 +1587,21 @@ Mais c’est pas la solution.
 
 379
 00:41:43,720 --> 00:41:45,840
-Parce que toi
+Parce que toi, tu l'as, la solution ?
 
 380
 00:41:46,600 --> 00:41:47,880
-Ça se saurait
+Ça se saurait, non ?
 
 381
 00:41:49,680 --> 00:41:53,040
-Pour le prochain appel au secours
+Pour le prochain appel au secours,
+je te conseille les médicaments.
 
 382
 00:41:53,640 --> 00:41:55,440
-Du cinquième étage
+Du cinquième étage,
+t'as aucune chance.
 
 383
 00:41:56,400 --> 00:41:58,760
@@ -1536,7 +1613,7 @@ du côté du quartier Saint-Michel.
 
 385
 00:42:03,000 --> 00:42:04,240
-Merci
+Merci, j'arrive.
 
 386
 00:42:04,480 --> 00:42:06,840
@@ -1544,15 +1621,16 @@ Juste à côté de la Main tendue. Il devait être perdu.
 
 387
 00:42:07,080 --> 00:42:09,840
-– Qu’est-ce que tu fais? – Je viens avec toi
+– Qu’est-ce que tu fais?
+– Je viens avec toi
 
 388
 00:42:11,240 --> 00:42:13,680
-T’avais l’intention de me laisser toute seule
+T’avais l’intention de me laisser toute seule, peut-être ?
 
 389
 00:43:15,840 --> 00:43:17,000
-Tu es là
+Tu es là, toi.
 
 390
 00:43:18,120 --> 00:43:19,600
@@ -1584,11 +1662,11 @@ C’est toi.
 
 397
 00:43:48,760 --> 00:43:50,400
-Excuse-moi
+Excuse-moi, je t'avais pas reconnu.
 
 398
 00:43:51,160 --> 00:43:52,480
- ’aie pas peur de moi.
+N'aie pas peur de moi.
 
 399
 00:43:52,720 --> 00:43:55,000
@@ -1616,11 +1694,12 @@ Tout va bien.
 
 405
 00:44:43,800 --> 00:44:45,320
-Je suis là
+Je suis là, t'inquiète pas.
 
 406
 00:45:30,160 --> 00:45:32,440
-– C’est quoi
+- C'est quoi, ce sang ?
+- C'est rien.
 
 407
 00:45:33,920 --> 00:45:35,240
@@ -1632,7 +1711,7 @@ C’était une biche.
 
 409
 00:45:39,400 --> 00:45:41,080
-Lucy aussi
+Lucy aussi, c'était une biche ?
 
 410
 00:45:45,560 --> 00:45:46,680
@@ -1689,6 +1768,7 @@ Dis-moi que tu me pardonnes.
 423
 00:46:48,480 --> 00:46:50,520
 Si tu me pardonnes
+elle aussi me pardonnera.
 
 424
 00:47:09,320 --> 00:47:11,080
@@ -1708,7 +1788,8 @@ Il vous empêche de partir?
 
 428
 00:47:38,440 --> 00:47:41,080
-– Viens vite
+- Viens vite, il est là.
+- Tu peux pas rester.
 
 429
 00:47:42,040 --> 00:47:45,240
@@ -1728,11 +1809,13 @@ Tu me disais que je t’avais sauvé.
 
 433
 00:47:55,520 --> 00:47:58,280
-Tu pensais plus à… que t’étais heureux avec moi.
+Tu pensais plus à… 
+que t’étais heureux avec moi.
 
 434
 00:47:58,520 --> 00:48:01,280
-– Bien sûr que j’étais heureux. – Je te croyais.
+– Bien sûr que j’étais heureux.
+– Je te croyais.
 
 435
 00:48:06,640 --> 00:48:08,200
@@ -1800,7 +1883,7 @@ Attends.
 
 451
 00:52:29,960 --> 00:52:31,560
-Qu’est-ce qu’il y a
+Qu'est-ce qu'il y a, ma chérie ?
 
 452
 00:52:32,600 --> 00:52:34,080

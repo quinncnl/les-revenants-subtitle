@@ -20,12 +20,12 @@ J’ai pas d’argent,
 
 5
 00:01:50,480 --> 00:01:52,840
-mais si vous m’embauchez,je veux bien un verre. 
+mais si vous m’embauchez, je veux bien un verre. 
 
 
 6
 00:01:58,680 --> 00:02:00,200
-Vous avez déjà été serveuse? 
+Vous avez déjà travaillé comme serveuse? 
 
 
 7
@@ -70,17 +70,20 @@ Leur fille est morte.
 
 15
 00:02:48,160 --> 00:02:50,760
-– Elle avait 15 ans.– C’est horrible. 
+– Elle avait 15 ans.
+– C’est horrible. 
 
 
 16
 00:02:51,800 --> 00:02:53,720
-Si t’aimes les drames,t’es bien tombée. 
+Si T’aimes les drames,
+t’es bien tombée. 
 
 
 17
 00:02:59,400 --> 00:03:01,480
-Tu connais un endroitoù je pourrais dormir? 
+Tu connais un endroit
+où je pourrais dormir? 
 
 
 18
@@ -90,7 +93,7 @@ Tu peux rester là en attendant.
 
 19
 00:03:13,280 --> 00:03:15,160
-Ça ira très bien.Merci. 
+Ça ira très bien. Merci. 
 
 
 20
@@ -105,7 +108,7 @@ Tu veux quelque chose à boire?
 
 22
 00:04:00,520 --> 00:04:02,560
-Je crois pasque ce soit une bonne idée. 
+Je crois pas que ce soit une bonne idée. 
 
 
 23
@@ -160,7 +163,7 @@ Que Léna aussi lui manque.
 
 33
 00:05:44,840 --> 00:05:46,960
-Que c’est pas de ta faute,ce qui lui est arrivé. 
+Que c’est pas de ta faute, ce qui lui est arrivé. 
 
 
 34
@@ -200,7 +203,8 @@ Je sens plus mes jambes.
 
 41
 00:06:45,000 --> 00:06:47,280
-e vous inquiétez pas.Ça va revenir progressivement. 
+Ne vous inquiétez pas.
+Ça va revenir progressivement. 
 
 
 42
@@ -225,7 +229,8 @@ Lucy Clarsen.
 
 46
 00:07:10,760 --> 00:07:12,840
-Des souvenirsde ce qui vous est arrivé? 
+Des souvenirs
+de ce qui vous est arrivé? 
 
 
 47
@@ -235,7 +240,7 @@ Qu’est-ce que j’ai?
 
 48
 00:07:22,040 --> 00:07:23,320
-Pourquoi ce regard? 
+Pourquoi vous me regardez comme ça? 
 
 
 49
@@ -250,22 +255,25 @@ Qu’y a-t-il?
 
 51
 00:08:55,080 --> 00:08:57,320
-Y a plus rien à faire.L’usine est noyée. 
+Y a plus rien à faire.
+L’usine est noyée. 
 
 
 52
 00:08:57,720 --> 00:09:00,280
-Vous pouvez pas partir comme ça.Vous aviez dit que… 
+Vous pouvez pas partir comme ça.
+Vous aviez dit que… 
 
 
 53
 00:09:00,520 --> 00:09:03,640
-Vous devriez faire comme moi.Y a aucune raison de rester. 
+Vous devriez faire comme moi.
+Y a aucune raison de rester. 
 
 
 54
 00:09:04,440 --> 00:09:06,280
-Y a forcémentquelque chose à faire. 
+Y a forcément quelque chose à faire. 
 
 
 55
@@ -275,7 +283,8 @@ C’est mort.
 
 56
 00:09:08,440 --> 00:09:11,040
-On a tout essayé.L’électricité reviendra pas. 
+On a tout essayé.
+L’électricité reviendra pas. 
 
 
 57
@@ -290,7 +299,7 @@ Qu’est-ce que vous foutez?
 
 59
 00:11:07,720 --> 00:11:09,320
-On vous attendait.Asseyez-vous. 
+On vous attendait. Asseyez-vous. 
 
 
 60
@@ -300,12 +309,13 @@ Désolée, j’ai rien à vous offrir.
 
 61
 00:11:15,080 --> 00:11:17,600
-Vous savez si le courantva bientôt revenir? 
+Vous savez si le courant va bientôt revenir? 
 
 
 62
 00:11:18,400 --> 00:11:22,080
-Vous pouvez venir à la Main tendue.On a un groupe électrogène. 
+Vous pouvez venir à la Main tendue.
+On a un groupe électrogène. 
 
 
 63
@@ -315,22 +325,23 @@ Y a des provisions
 
 64
 00:11:23,880 --> 00:11:26,840
-et des dortoirs aussi,si vous voulez dormir au chaud. 
+et des dortoirs aussi, si vous voulez dormir au chaud. 
 
 
 65
 00:11:28,040 --> 00:11:29,520
-Merci d’être venus. 
+Je vous merci d’être venus. 
 
 
 66
 00:11:30,720 --> 00:11:34,000
-Si je vous ai dérangés,c’est pour quelque chose d’important. 
+Si je vous ai dérangés, 
+c’est pour quelque chose d’important. 
 
 
 67
 00:11:35,240 --> 00:11:37,480
-Il y a quelques jours,Claire a été… 
+Il y a quelques jours, Claire a été… 
 
 
 68
@@ -355,27 +366,30 @@ Et je la remercie.
 
 72
 00:11:47,240 --> 00:11:50,520
-Aujourd’hui, on désire partagercette nouvelle avec vous. 
+Aujourd’hui, on désire partager
+cette nouvelle avec vous. 
 
 
 73
 00:11:52,360 --> 00:11:54,360
-Parce qu’on a confiance en vous, 
+Parce que nous avons confiance en vous, 
 
 
 74
 00:11:54,880 --> 00:11:56,800
-et qu’on a besoin de votre aide. 
+et parque nous avons besoin de votre aide. 
 
 
 75
 00:11:57,960 --> 00:12:00,800
-Ce que vous allez voirdépasse toute logique, 
+Ce que vous allez voir
+dépasse toute logique, 
 
 
 76
 00:12:02,560 --> 00:12:05,200
-et change les perspectivesdu monde qui nous entoure. 
+et change les perspectives
+du monde qui nous entoure. 
 
 
 77
@@ -385,7 +399,7 @@ Il va vous falloir l’accepter.
 
 78
 00:12:09,760 --> 00:12:12,160
-Désormais,nous avons un destin commun. 
+Désormais, nous avons un destin commun. 
 
 
 79
@@ -405,7 +419,8 @@ C’est la vérité.
 
 82
 00:13:00,800 --> 00:13:03,880
-Si Audrey revenait,tu la reconnaîtrais, immédiatement. 
+Si Audrey revenait,
+tu la reconnaîtrais, immédiatement. 
 
 
 83
@@ -415,7 +430,8 @@ Camille est de nouveau parmi nous.
 
 84
 00:13:09,120 --> 00:13:11,200
-C’est notre rôle à tousde l’accueillir. 
+C’est notre rôle à tous
+de l’accueillir. 
 
 
 85
@@ -430,7 +446,8 @@ que d’autres enfants vont revenir?
 
 87
 00:13:18,960 --> 00:13:22,520
-Son retour nous donne l’espoirqu’il y en aura peut-être d’autres. 
+Son retour nous donne l’espoir
+qu’il y en aura peut-être d’autres. 
 
 
 88
@@ -445,17 +462,18 @@ comment ça s’est passé dans le car?
 
 90
 00:13:32,280 --> 00:13:34,600
-Et là-bas,tu as vu d’autres enfants? 
+Et là-bas,
+tu as vu d’autres enfants? 
 
 
 91
 00:13:34,840 --> 00:13:36,240
-Ils t’ont parlé? 
+Est-ce qu'ils t’ont parlé? 
 
 
 92
 00:13:38,480 --> 00:13:39,800
-Pourquoi toi? 
+Pourquoi c'est toi qui est revenue? 
 
 
 93
@@ -465,17 +483,19 @@ Si Camille est revenue,
 
 94
 00:13:46,000 --> 00:13:48,040
-peut-être que viendrale tour d’Audrey. 
+peut-être que viendra
+le tour d’Audrey. 
 
 
 95
 00:13:48,680 --> 00:13:52,600
-Comme le dit Pierre, son retourest un espoir pour nous tous. 
+Comme le dit Pierre, 
+son retour est un espoir pour nous tous. 
 
 
 96
 00:13:53,320 --> 00:13:54,400
-Facile pour toi. 
+C'est facile pour toi de dire ça. 
 
 
 97
@@ -500,7 +520,8 @@ La regardez pas comme un monstre.
 
 101
 00:14:12,040 --> 00:14:13,880
-Je vous en prie.Elle y est pour rien. 
+Je vous en prie.
+Elle y est pour rien. 
 
 
 102
@@ -520,7 +541,8 @@ J’aurais jamais dû vous écouter!
 
 105
 00:14:27,240 --> 00:14:29,520
-On a toujours peurde ce qu’on connaît pas. 
+Tu sais bien qu'on a toujours peur
+de ce qu’on connaît pas. 
 
 
 106
@@ -535,7 +557,8 @@ Et eux?
 
 108
 00:14:33,160 --> 00:14:35,160
-Ils ont essayéde se mettre à ma place? 
+Ils ont essayé
+de se mettre à ma place? 
 
 
 109
@@ -545,7 +568,8 @@ Ils sont comme Léna ou Frédéric.
 
 110
 00:14:39,280 --> 00:14:42,000
-Ils me regardentcomme si j’étais un monstre. 
+Ils me regardent
+comme si j’étais un monstre. 
 
 
 111
@@ -560,12 +584,14 @@ Quoi?
 
 113
 00:14:55,720 --> 00:14:58,920
-As-tu essayé de te mettreà la place de ta sœur? 
+As-tu essayé de te mettre
+à la place de ta sœur? 
 
 
 114
 00:15:04,920 --> 00:15:07,800
-Tu as eu le droit de revenir.Tu te rends compte du privilège? 
+Tu as eu le droit de revenir.
+Tu te rends compte du privilège? 
 
 
 115
@@ -585,12 +611,13 @@ Rien.
 
 118
 00:15:26,280 --> 00:15:29,000
-– Je perds mon temps à te parler.– Attendez. 
+– Je perds mon temps à te parler.
+– Attendez. 
 
 
 119
 00:15:31,800 --> 00:15:32,920
-Que dois-je faire? 
+Qu'est-ce que je faire? 
 
 
 120
@@ -625,7 +652,8 @@ On pourra pas le garder longtemps.
 
 126
 00:16:02,600 --> 00:16:05,640
-Le générateur de l’hôpital nous lâche.On va évacuer. 
+Le générateur de l’hôpital nous lâche.
+On va évacuer. 
 
 
 127
@@ -665,12 +693,13 @@ Du genre?
 
 134
 00:16:46,920 --> 00:16:49,000
-Je sais pas.Du genre anormal. 
+Je sais pas.
+Du genre anormal. 
 
 
 135
 00:17:21,720 --> 00:17:23,640
-Tu peux aller dans ta chambre? 
+Tu peux aller dans ta chambre, STP? 
 
 
 136
@@ -680,7 +709,8 @@ Va dans ta chambre.
 
 137
 00:17:29,520 --> 00:17:32,080
-– Vous allez parler du fantôme?– Vas-y. 
+– Vous allez parler du fantôme?
+– Vas-y. 
 
 
 138
@@ -690,27 +720,32 @@ Le fantôme est parti.
 
 139
 00:17:34,280 --> 00:17:36,560
-– Où ça?– Il est retourné d’où il venait. 
+– Où ça?
+– Il est retourné d’où il venait. 
 
 
 140
 00:17:37,120 --> 00:17:39,080
-Comment tu saisqu’il reviendra plus? 
+Comment tu sais
+qu’il reviendra plus? 
 
 
 141
 00:17:40,840 --> 00:17:42,800
-Il a comprisqu’on n’a pas besoin de lui. 
+Il a compris
+qu’on n’a pas besoin de lui. 
 
 
 142
 00:17:44,520 --> 00:17:47,320
-Y a des gens qui vont venirte poser des questions. 
+Y a des gens qui vont venir
+te poser des questions. 
 
 
 143
 00:17:48,200 --> 00:17:50,920
-Ils vont sûrement vouloir savoirsi tu connaissais… 
+Ils vont sûrement vouloir savoir
+si tu connaissais… 
 
 
 144
@@ -725,7 +760,7 @@ Faudra que tu dises que non.
 
 146
 00:17:56,560 --> 00:17:59,400
-La première fois que tu l’as vu,c’était hier soir dans le jardin. 
+La première fois que tu l’as vu, c’était hier soir dans le jardin. 
 
 
 147
@@ -735,17 +770,20 @@ T’as eu peur et tu m’as appelé.
 
 148
 00:18:03,080 --> 00:18:05,680
-– D’accord?– Pourquoi je dois mentir? 
+– D’accord?
+– Pourquoi je dois mentir? 
 
 
 149
 00:18:08,240 --> 00:18:11,600
-Si tu dis la vérité,ils vont croire que tu mens. 
+Si tu dis la vérité,
+ils vont croire que tu mens. 
 
 
 150
 00:18:12,400 --> 00:18:16,080
-Les gens ne croient pas aux fantômes.C’est notre secret à nous deux. 
+Les gens ne croient pas aux fantômes.
+C’est notre secret à nous deux. 
 
 
 151
@@ -775,7 +813,8 @@ C’était pas lui.
 
 156
 00:18:40,640 --> 00:18:42,720
-J’ignore ce que c’était,mais c’était pas lui. 
+J’ignore ce que c’était,
+mais c’était pas lui. 
 
 
 157
@@ -790,7 +829,8 @@ Je pouvais pas le laisserte torturer comme ça.
 
 159
 00:18:54,240 --> 00:18:57,000
-Qu’est-ce qui te fait croirequ’il est vraiment mort, cette fois? 
+Qu’est-ce qui te fait croire
+qu’il est vraiment mort, cette fois? 
 
 
 160
@@ -815,12 +855,14 @@ Tu me fais confiance?
 
 164
 00:19:50,440 --> 00:19:52,000
-Entrez.J’ai terminé. 
+Entrez.
+J’ai terminé. 
 
 
 165
 00:19:52,480 --> 00:19:54,320
-– À tout à l’heure?– À tout à l’heure. 
+– À tout à l’heure?
+– À tout à l’heure. 
 
 
 166
